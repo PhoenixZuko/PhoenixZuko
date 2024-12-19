@@ -9,7 +9,7 @@ I enjoy working on projects that:
 - **💼 Provide opportunities** to contribute professionally while continuing to grow.
 
 ## 🛠 Skills
-- **Languages:** PHP, HTML, JSON
+- **Languages:** Python, PHP, HTML, JSON
 - **Technologies:** Linux, SQL
 - **Security:** Basic knowledge of cybersecurity principles
 - **Tools:** Experience with command-line consoles and shell scripting
@@ -19,6 +19,14 @@ I’m currently looking to:
 1. Learn how to **implement programs into web pages** and enhance interactivity.
 2. Contribute to **open-source projects** that are impactful and innovative.
 3. Secure a role where I can apply my technical skills to solve real-world problems while gaining more experience.
+
+## 📚 Projects in Progress
+I’ve developed several projects in **Python**, ranging from automation scripts to data management tools.  
+While I’m excited to share them here, I’m currently dedicating time to:
+- **🛠 Refactoring** and cleaning the code for readability and maintainability.
+- **📑 Documenting** the projects to ensure ease of use for others.
+
+Stay tuned! More repositories will be coming soon. 🚀
 
 ## 🤝 Collaboration
 I’m open to collaborating on projects that are:
@@ -33,4 +41,3 @@ I’m open to collaborating on projects that are:
 
 😄 **Pronouns:** He/Him  
 ⚡ **Fun Fact:** I’ve spent countless hours exploring Linux consoles and love discovering new ways to optimize workflows!
-
