@@ -26,7 +26,7 @@ I’m open to collaborating on projects that are:
 - Aligned with **web development**, **automation**, or **data management**.
 
 ## 📫 How to Reach Me
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [andrei.sorin.stefan@gmail.com](andrei.sorin.stefan@gmail.com)
 - GitHub: [PhoenixZuko](https://github.com/PhoenixZuko)
 
 ---
