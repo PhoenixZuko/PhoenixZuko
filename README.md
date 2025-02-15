@@ -23,8 +23,8 @@ I’m currently looking to:
 ##  Projects in Progress
 I’ve developed several projects in **Python**, ranging from automation scripts to data management tools.  
 While I’m excited to share them here, I’m currently dedicating time to:
-- **🛠 Refactoring** and cleaning the code for readability and maintainability.
-- **📑 Documenting** the projects to ensure ease of use for others.
+- ** Refactoring** and cleaning the code for readability and maintainability.
+- ** Documenting** the projects to ensure ease of use for others.
 
 Stay tuned! More repositories will be coming soon. 
 
