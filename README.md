@@ -8,7 +8,7 @@ I enjoy working on projects that:
 - ** Foster collaboration**, especially for open-source initiatives.
 - ** Provide opportunities** to contribute professionally while continuing to grow.
 
-## 🛠 Skills
+##  Skills
 - **Languages:** Python, PHP, HTML, JSON
 - **Technologies:** Linux, SQL
 - **Security:** Basic knowledge of cybersecurity principles
@@ -26,7 +26,7 @@ While I’m excited to share them here, I’m currently dedicating time to:
 - **🛠 Refactoring** and cleaning the code for readability and maintainability.
 - **📑 Documenting** the projects to ensure ease of use for others.
 
-Stay tuned! More repositories will be coming soon. 🚀
+Stay tuned! More repositories will be coming soon. 
 
 ##  Collaboration
 I’m open to collaborating on projects that are:
