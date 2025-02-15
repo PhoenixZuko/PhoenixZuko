@@ -1,12 +1,12 @@
-# 👋 Hi, I’m @PhoenixZuko
+#  Hi, I’m @PhoenixZuko
 
-## 🌟 About Me
+##  About Me
 I’m passionate about learning and implementing programs into web pages. With a solid background in **Linux**, **SQL**, and **JSON**, I’m continuously working to expand my skill set and take on new challenges.
 
 I enjoy working on projects that:
-- **💡 Push boundaries** and explore bold, innovative ideas.
-- **🤝 Foster collaboration**, especially for open-source initiatives.
-- **💼 Provide opportunities** to contribute professionally while continuing to grow.
+- ** Push boundaries** and explore bold, innovative ideas.
+- ** Foster collaboration**, especially for open-source initiatives.
+- ** Provide opportunities** to contribute professionally while continuing to grow.
 
 ## 🛠 Skills
 - **Languages:** Python, PHP, HTML, JSON
@@ -14,13 +14,13 @@ I enjoy working on projects that:
 - **Security:** Basic knowledge of cybersecurity principles
 - **Tools:** Experience with command-line consoles and shell scripting
 
-## 🚀 Goals
+##  Goals
 I’m currently looking to:
 1. Learn how to **implement programs into web pages** and enhance interactivity.
 2. Contribute to **open-source projects** that are impactful and innovative.
 3. Secure a role where I can apply my technical skills to solve real-world problems while gaining more experience.
 
-## 📚 Projects in Progress
+##  Projects in Progress
 I’ve developed several projects in **Python**, ranging from automation scripts to data management tools.  
 While I’m excited to share them here, I’m currently dedicating time to:
 - **🛠 Refactoring** and cleaning the code for readability and maintainability.
@@ -28,16 +28,16 @@ While I’m excited to share them here, I’m currently dedicating time to:
 
 Stay tuned! More repositories will be coming soon. 🚀
 
-## 🤝 Collaboration
+##  Collaboration
 I’m open to collaborating on projects that are:
 - Built to **improve existing solutions** or create something entirely new.
 - Aligned with **web development**, **automation**, or **data management**.
 
-## 📫 How to Reach Me
+##  How to Reach Me
 - Email: [andrei.sorin.stefan@gmail.com](andrei.sorin.stefan@gmail.com)
 - GitHub: [PhoenixZuko](https://github.com/PhoenixZuko)
 
 ---
 
-😄 **Pronouns:** He/Him  
-⚡ **Fun Fact:** I’ve spent countless hours exploring Linux consoles and love discovering new ways to optimize workflows!
+ **Pronouns:** He/Him  
+ **Fun Fact:** I’ve spent countless hours exploring Linux consoles and love discovering new ways to optimize workflows!
