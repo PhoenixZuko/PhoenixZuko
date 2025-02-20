@@ -9,10 +9,10 @@ I enjoy working on projects that:
 - ** Provide opportunities** to contribute professionally while continuing to grow.
 
 ##  Skills
-- **Languages:** Python, PHP, HTML, JSON
-- **Technologies:** Linux, SQL
+- **Languages:** Python, PHP, JavaScript (React), HTML, JSON
+- **Technologies:** Linux, SQL, OpenCV, ONNX, Deep Learning, AI-based Watermarking
 - **Security:** Basic knowledge of cybersecurity principles
-- **Tools:** Experience with command-line consoles and shell scripting
+- **Tools:** Command-line consoles, Shell scripting, Django-API, React, FFmpeg, NumPy,
 
 ##  Goals
 I’m currently looking to:
