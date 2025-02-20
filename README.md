@@ -9,10 +9,36 @@ I enjoy working on projects that:
 - ** Provide opportunities** to contribute professionally while continuing to grow.
 
 ##  Skills
-- **Languages:** Python, PHP, JavaScript (React), HTML, JSON
-- **Technologies:** Linux, SQL, OpenCV, ONNX, Deep Learning, AI-based Watermarking
-- **Security:** Basic knowledge of cybersecurity principles
-- **Tools:** Command-line consoles, Shell scripting, Django-API, React, FFmpeg, NumPy,
+  Programming Languages:
+ Python – Automation, Web Scraping, AI & Machine Learning, Backend Development
+ JavaScript (React, Node.js) – Frontend & API Integrations
+ PHP – Web Development & Backend Services
+ SQL – Database Management & Query Optimization
+ Shell Scripting (Bash) – Server Automation & System Management
+ JSON & YAML – API Integration & Configuration
+
+  Technologies & Frameworks:
+ Django & Django REST Framework – Backend APIs & Data Processing
+ React.js – Frontend Development & API Communication
+ Linux & Server Management – Deployment, Security, Automation
+ ONNX & Deep Learning – AI-powered Inference, Computer Vision
+ FFmpeg – Video Processing & Automation
+ OpenCV – Image & Video Processing, AI-based Watermarking
+ MaxMind MMDB – Geolocation & Data Enrichment
+ Web Scraping (Selenium, BeautifulSoup, Requests) – Data Extraction & Automation
+ Docker (Basic knowledge) – Containerization & Deployment
+
+ Security & Optimization:
+ Cybersecurity Fundamentals – SSH Key Authentication, Secure API Calls
+ Logging & Monitoring – Tracking Data Processing & Automation Workflows
+ Performance Optimization – AI Inference, Video Processing, Automation Efficiency
+
+  Tools & Platforms:
+ Git & GitHub – Version Control & Open Source Contributions
+ Command-line & Bash Scripting – Automation & Server Management
+ SQL (MySQL, PostgreSQL, SQLite) – Database Queries & Optimization
+ Twilio API (WhatsApp & SMS) – Automated Alerts & Notifications
+ cPanel & Web Hosting Management – Server-side Automation & Deployment
 
 ##  Goals
 I’m currently looking to:
