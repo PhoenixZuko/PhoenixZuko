@@ -27,7 +27,6 @@ I enjoy working on projects that:
 - **OpenCV** – Image & Video Processing, AI-based Watermarking  
 - **MaxMind MMDB** – Geolocation & Data Enrichment  
 - **Web Scraping (Selenium, BeautifulSoup, Requests)** – Data Extraction & Automation  
-- **Docker (Basic knowledge)** – Containerization & Deployment  
 
 ### Security & Optimization:
 - **Cybersecurity Fundamentals** – SSH Key Authentication, Secure API Calls  
