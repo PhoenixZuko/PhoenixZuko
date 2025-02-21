@@ -68,3 +68,4 @@ I’m open to collaborating on projects that:
 
 **Pronouns:** He/Him  
 **Fun Fact:** I’ve spent countless hours exploring Linux consoles and love discovering new ways to optimize workflows!
+
