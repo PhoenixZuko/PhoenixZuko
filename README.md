@@ -1,12 +1,19 @@
 # Hi, I’m @PhoenixZuko
 
-## About Me
-I’m passionate about learning and implementing programs into web pages. With a solid background in **Linux**, **SQL**, and **JSON**, I’m continuously working to expand my skill set and take on new challenges.
+ About Me
+I'm passionate about building and integrating programs into modern web applications. With a strong foundation in Linux, SQL, and JSON, I'm constantly expanding my skill set to take on increasingly complex technical challenges.
+🎯 I enjoy working on projects that:
+Push boundaries and explore bold, innovative solutions.
+Encourage collaboration, especially through open-source contributions.
+Provide opportunities to learn, grow, and deliver real-world value.
 
-I enjoy working on projects that:
-- **Push boundaries** and explore bold, innovative ideas.
-- **Foster collaboration**, especially for open-source initiatives.
-- **Provide opportunities** to contribute professionally while continuing to grow.
+📺 Tech Demonstrations & Tutorials
+Check out my YouTube channel for examples of my technical work and automation demos:
+
+https://www.youtube.com/@andreisorinstefan
+https://www.upwork.com/freelancers/~01207dc9df982f92c4
+https://www.linkedin.com/in/andrei-sorin-stefan-8b1682318/
+https://stackoverflow.com/users/31050144/andrei-sorin-stefan
 
 ## Skills
 
