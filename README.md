@@ -12,7 +12,9 @@ Check out my YouTube channel for examples of my technical work and automation de
 https://www.youtube.com/@andreisorinstefan
 
 https://www.upwork.com/freelancers/~01207dc9df982f92c4
+
 https://www.linkedin.com/in/andrei-sorin-stefan-8b1682318/
+
 https://stackoverflow.com/users/31050144/andrei-sorin-stefan
 
 ## Skills
