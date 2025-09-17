@@ -17,8 +17,6 @@ https://www.linkedin.com/in/andrei-sorin-stefan-8b1682318/    ➡️ LinkedIn  �
 https://www.upwork.com/freelancers/~01207dc9df982f92c4        ➡️ Upwork  – Freelance projects
 https://stackoverflow.com/users/31050144/andrei-sorin-stefan  ➡️ Stack Overflow  – Q&A contributions
 https://www.youtube.com/@andreisorinstefan                    ➡️ YouTube – Tutorials & insights
-
-https://vorte.eu/contact   ➡️ Contact me  
  
 ## Skills
 
@@ -74,7 +72,8 @@ I’m open to collaborating on projects that:
 ## How to Reach Me
 - **Email:** andrei.sorin.stefan@gmail.com  
 - **GitHub:** [PhoenixZuko](https://github.com/PhoenixZuko)  
-
+ - **Personal site:** https://vorte.eu
+ - - **Contact me :** https://vorte.eu/contact 
 ---
 
 **Pronouns:** He/Him  
