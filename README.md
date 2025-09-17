@@ -17,18 +17,12 @@ Check out my YouTube channel for examples of my technical work and automation de
 
 
 https://vorte.eu          ➡️ Personal site               
-https://www.linkedin.com/in/andrei-sorin-stefan-8b1682318/   ➡️ LinkedIn  – Professional profile
- https://www.upwork.com/freelancers/~01207dc9df982f92c4      ➡️ Upwork  – Freelance projects
-https://stackoverflow.com/users/31050144/andrei-sorin-stefan ➡️ Stack Overflow  – Q&A contributions
-https://www.youtube.com/@andreisorinstefan                   ➡️ YouTube – Tutorials & insights
+https://www.linkedin.com/in/andrei-sorin-stefan-8b1682318/    ➡️ LinkedIn  – Professional profile
+ https://www.upwork.com/freelancers/~01207dc9df982f92c4       ➡️ Upwork  – Freelance projects
+https://stackoverflow.com/users/31050144/andrei-sorin-stefan  ➡️ Stack Overflow  – Q&A contributions
+https://www.youtube.com/@andreisorinstefan                    ➡️ YouTube – Tutorials & insights
 https://vorte.eu/contact  ➡️ Contact me  
  
-https://www.youtube.com/@andreisorinstefan
-https://www.upwork.com/freelancers/~01207dc9df982f92c4
-https://www.linkedin.com/in/andrei-sorin-stefan-8b1682318/
-https://stackoverflow.com/users/31050144/andrei-sorin-stefan
-https://vorte.eu/contact
-
 ## Skills
 
 ### Programming Languages:
