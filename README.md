@@ -11,12 +11,6 @@ Provide opportunities to learn, grow, and deliver real-world value.
 
 Check out my YouTube channel for examples of my technical work and automation demos:
 
-
-https://vorte.eu          ➡️ Personal site               
-https://www.linkedin.com/in/andrei-sorin-stefan-8b1682318/    ➡️ LinkedIn  – Professional profile
-https://www.upwork.com/freelancers/~01207dc9df982f92c4        ➡️ Upwork  – Freelance projects
-https://stackoverflow.com/users/31050144/andrei-sorin-stefan  ➡️ Stack Overflow  – Q&A contributions
-https://www.youtube.com/@andreisorinstefan                    ➡️ YouTube – Tutorials & insights
  
 ## Skills
 
@@ -69,11 +63,6 @@ I’m open to collaborating on projects that:
 - Aim to **improve existing solutions** or create something entirely new.  
 - Are aligned with **web development**, **automation**, or **data management**.  
 
-## How to Reach Me
-- **Email:** andrei.sorin.stefan@gmail.com  
-- **GitHub:** [PhoenixZuko](https://github.com/PhoenixZuko)  
- - **Personal site:** https://vorte.eu
- - - **Contact me :** https://vorte.eu/contact 
 ---
 
 **Pronouns:** He/Him  
