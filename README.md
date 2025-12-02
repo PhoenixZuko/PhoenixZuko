@@ -1,70 +1,82 @@
-# Hi, I’m @PhoenixZuko
+# Hi, I’m Andrei Sorin Ștefan (PhoenixZuko)
 
- About Me
-I'm passionate about building and integrating programs into modern web applications. With a strong foundation in Linux, SQL, and JSON, I'm constantly expanding my skill set to take on increasingly complex technical challenges.
- I enjoy working on projects that:
-Push boundaries and explore bold, innovative solutions.
-Encourage collaboration, especially through open-source contributions.
-Provide opportunities to learn, grow, and deliver real-world value.
+I build practical, reliable and well-structured software systems with a focus on:
+- automation,
+- backend development,
+- data extraction pipelines,
+- and system integration.
 
-📺 Tech Demonstrations & Tutorials
-
-Check out my YouTube channel for examples of my technical work and automation demos:
-
- 
-## Skills
-
-### Programming Languages:
-- **Python** – Automation, Web Scraping, AI & Machine Learning, Backend Development  
-- **JavaScript (React, Node.js)** – Frontend & API Integrations  
-- **PHP** – Web Development & Backend Services  
-- **SQL** – Database Management & Query Optimization  
-- **Shell Scripting (Bash)** – Server Automation & System Management  
-- **JSON & YAML** – API Integration & Configuration  
-
-### Technologies & Frameworks:
-- **Django & Django REST Framework** – Backend APIs & Data Processing  
-- **React.js** – Frontend Development & API Communication  
-- **Linux & Server Management** – Deployment, Security, Automation  
-- **ONNX & Deep Learning** – AI-powered Inference, Computer Vision  
-- **FFmpeg** – Video Processing & Automation  
-- **OpenCV** – Image & Video Processing, AI-based Watermarking  
-- **MaxMind MMDB** – Geolocation & Data Enrichment  
-- **Web Scraping (Selenium, BeautifulSoup, Requests)** – Data Extraction & Automation  
-
-### Security & Optimization:
-- **Cybersecurity Fundamentals** – SSH Key Authentication, Secure API Calls  
-- **Logging & Monitoring** – Tracking Data Processing & Automation Workflows  
-- **Performance Optimization** – AI Inference, Video Processing, Automation Efficiency  
-
-### Tools & Platforms:
-- **Git & GitHub** – Version Control & Open Source Contributions  
-- **Command-line & Bash Scripting** – Automation & Server Management  
-- **SQL (MySQL, PostgreSQL, SQLite)** – Database Queries & Optimization  
-- **Twilio API (WhatsApp & SMS)** – Automated Alerts & Notifications  
-- **cPanel & Web Hosting Management** – Server-side Automation & Deployment  
-
-## Goals
-I’m currently focused on:
-1. Learning how to **implement programs into web pages** and enhance interactivity.  
-2. Contributing to **open-source projects** that are impactful and innovative.  
-3. Securing a role where I can apply my technical skills to solve real-world problems while gaining more experience.  
-
-## Projects in Progress
-I’ve developed several projects in **Python**, ranging from automation scripts to data management tools.  
-While I’m excited to share them here, I’m currently dedicating time to:
-- **Refactoring** and cleaning the code for readability and maintainability.  
-- **Documenting** the projects to ensure ease of use for others.  
-
-More repositories will be coming soon!
-
-## Collaboration
-I’m open to collaborating on projects that:
-- Aim to **improve existing solutions** or create something entirely new.  
-- Are aligned with **web development**, **automation**, or **data management**.  
+My work spans from small but technically complex automation tools to full backend architectures using Django, APIs, and modern web technologies. I enjoy solving real problems through clean code, efficient data handling and stable system design.
 
 ---
 
-**Pronouns:** He/Him  
-**Fun Fact:** I’ve spent countless hours exploring Linux consoles and love discovering new ways to optimize workflows!
+## 🔧 Technical Skills
 
+### **Programming**
+- Python (automation, scraping, backend APIs, AI/ML inference)
+- JavaScript / TypeScript (Vue, React, Node.js)
+- PHP (API services, backend utilities)
+- Shell Scripting (Linux automation)
+- SQL (MySQL, PostgreSQL, SQLite)
+
+### **Frameworks & Tools**
+- **Django & DRF** – backend architectures, authentication, data processing  
+- **Vue.js / React** – frontend interfaces and dashboards  
+- **Selenium, BeautifulSoup, Requests** – scraping & browser automation  
+- **Linux Server Management** – security, deployment, automation  
+- **FFmpeg & OpenCV** – video processing, watermark detection, AI pipelines  
+- **ONNX Runtime** – optimized inference workloads  
+- **Git & GitHub** – version control, clean repository structure  
+
+---
+
+## 🔍 Areas of Interest
+- Browser automation and anti-bot-resistant data collectors  
+- API-driven systems and backend architectures  
+- Data processing pipelines (JSON, YAML, ETL flows)  
+- AI-based video/image processing  
+- Optimizing automation workflows for stability and performance  
+
+---
+
+## 🚀 Selected Work
+I develop both end-to-end applications and compact automation tools.  
+A few examples include:
+
+- **ParkingList Data Extractor** – multi-stage Selenium pipeline with resumable execution  
+- **Django + Vue authentication platform (JWT)** – complete login/registration system  
+- **Video watermark detection (ONNX + OpenCV + FFmpeg)** – automated batch processor  
+- **Python automation suites** for data collection, reporting & scheduled tasks  
+
+More repositories are being reviewed, documented and published progressively.
+
+---
+
+## 🎯 Current Goals
+- Improving how automation tools integrate with modern web applications  
+- Expanding open-source contributions  
+- Building production-grade backend components and data pipelines  
+- Securing a role where I can apply my experience in automation and backend engineering
+
+---
+
+## 🤝 Collaboration
+I’m open to working on:
+- backend APIs  
+- automation tools  
+- data extraction systems  
+- integration-focused projects  
+- web applications that require reliable infrastructure
+
+---
+
+## 📺 YouTube
+I occasionally upload demos and technical walkthroughs:
+**[https://www.youtube.com/@PhoenixZuko](https://www.youtube.com/@andreisorinstefan)**
+
+---
+
+## ✉️ Contact
+Feel free to reach out for collaboration or technical discussion.
+
+**Pronouns:** He/Him  
