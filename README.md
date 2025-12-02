@@ -1,4 +1,4 @@
-# Andrei Sorin Stefan — Backend, Automation & Data Engineering
+# Andrei Sorin Stefan  Backend, Automation & Data Engineering
 I'm a Full-Stack & Automation Engineer with a strong focus on backend systems, data extraction (ETL), 
 and browser automation. I build practical, reliable tools designed to solve real-world problems —
 from complex scrapers to full web platforms with authentication, dashboards, and API backends.
