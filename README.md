@@ -1,80 +1,122 @@
 # Andrei Sorin Stefan — Backend, Automation & Data Engineering
+I'm a Full-Stack & Automation Engineer with a strong focus on backend systems, data extraction (ETL), 
+and browser automation. I build practical, reliable tools designed to solve real-world problems —
+from complex scrapers to full web platforms with authentication, dashboards, and API backends.
 
-I specialize in backend systems, automation workflows, and data processing pipelines.  
-My work focuses on reliability, clarity, and well-structured architecture rather than shortcuts or unstable solutions.  
-I prefer clean, predictable systems that scale and can be extended without redesign.
+My work combines:
+• Backend engineering (Python, Django, FastAPI, Node.js, Spring Boot)
+• Frontend development (Vue 3, React, Next.js)
+• Web automation & anti-bot systems (Selenium, undetected-chromedriver)
+• ETL pipelines, data modeling, data cleaning, scoring, and analysis
+• Linux, servers, deployment, monitoring, and system design
 
----
-
-## ⚙️ Technical Focus Areas
-
-### 🔹 Backend Engineering
-- Python (FastAPI, Flask, Django REST Framework)  
-- REST API design, request validation, JWT authentication  
-- Modular service architecture and clean data models  
-- Secure session handling and business-logic oriented backend design  
-
----
-
-### 🔹 Data Engineering & ETL Pipelines
-- Large-scale data extraction (Selenium, undetected-chromedriver, requests)  
-- Full ETL flows: collect → clean → transform → normalize → export (JSON/SQL/CSV)  
-- Checkpointing, resumable executions, and fault-tolerant processing  
-- HTML parsing, classification, and structured data output  
-- PostgreSQL, SQLite, and JSON-based data pipelines  
+I enjoy building systems that are:
+• maintainable
+• resilient under real traffic
+• configuration-driven
+• production-ready even when running locally
+• transparent and easy to extend
 
 ---
 
-### 🔹 Automation Engineering
-- Browser automation with Selenium + stealth techniques  
-- Proxy rotation, cookie/session isolation, multi-session orchestration  
-- Human-like interaction modeling, timing control, form automation  
-- Anti-bot evasion strategies and stability optimization  
+##  Technical Skills
+
+### **Backend**
+• Python (Selenium, asyncio, ETL pipelines, parsing engines)
+• Django REST Framework
+• FastAPI
+• Node.js
+• Kotlin + Spring Boot (configuration-driven backend architecture)
+• SQL (PostgreSQL, MySQL, SQLite)
+• Data modeling, normalization, scoring systems
+
+### **Automation & Scraping**
+• Selenium / Undetected-Chromedriver
+• Anti-bot evasion: fingerprinting, cookies, session isolation
+• Multi-session browser automation
+• Dynamic page interactions (forms, JS content, pagination)
+• Human-behavior simulation
+• Robust logging, resume logic, offline caching
+• Large-scale HTML → JSON transformation
+
+### **Frontend**
+• Vue 3 (SPA, Composition API)
+• React / Next.js
+• TailwindCSS
+• Interactive dashboards (Tabulator.js) for data analytics
+
+### **DevOps & Systems**
+• Linux (Ubuntu, Debian) – daily driver  
+• Shell scripting, process management, PID handling  
+• API integrations (JSON / REST)  
+• CI-ready architecture  
+• Local production-like environments  
 
 ---
 
-### 🔹 Systems Engineering & DevOps
-- Linux environments (Ubuntu, Debian) — deployment, administration, CLI workflows  
-- Docker & Docker Compose — multi-service orchestration  
-- Traefik — reverse proxy, routing, SSL, rate limits  
-- Logging, monitoring, and scheduled automation (cron, systemd)  
+##  Representative Work
+
+### **1. ParkingList.de – Small but Complex ETL Scraper**
+A resilient scraper with 70+ date combinations/airport, resume logic, multi-stage processing, HTML archival, JSON structuring and dynamic browser automation.
+
+Built with:
+• `undetected-chromedriver`
+• Selenium
+• Multi-stage ETL (HTML → TXT → JSON)
+• Anti-bot awareness  
+• Automatic archival & progress tracking  
+• Production-grade logic despite the small scope  
+
+(Project on GitHub)
 
 ---
 
-### 🔹 Frontend Integration
-- Vue 3 + TypeScript  
-- Next.js (React)  
-- SPA workflows connected to backend APIs  
-- Functional, data-driven interfaces for automation and backend systems  
+### **2. Facebook Marketplace & Craigslist Car Scanner + Live Dashboard**
+A full local ecosystem consisting of:
+• Scraper (Selenium + human simulation)  
+• Extractor (data modeling, cleaning, scoring)  
+• Dashboard (Flask API + Tabulator.js)  
+• YAML configuration system  
+• PID-controlled Start/Stop mechanisms  
+• Direct linking to original listings  
+
+Full explanation in the attached documentation :contentReference[oaicite:1]{index=1}  
+(Not published publicly out of respect for the client's contract.)
 
 ---
 
-### 🔹 AI & Media Processing
-- ONNX Runtime for model inference  
-- OpenCV for video/image processing  
-- FFmpeg for encoding, transformation, and batch automation  
+### **3. EnergieJungle Lead Routing Demo (Kotlin + Vue 3)**
+End-to-end prototype demonstrating:
+• dynamic questionnaire generation  
+• scoring engine  
+• partner eligibility  
+• routing logic  
+• clean REST architecture  
+Frontend in Vue 3, backend in Kotlin + Spring Boot.
 
 ---
 
-## 🧠 Core Expertise
+### **4. VorteLab Platform**
+A real production ecosystem:
+• Django REST API backend  
+• Vue 3 login system  
+• JWT authentication  
+• Internal chat system  
+• Next.js presentation website  
+All deployed and live.
 
-- Backend architecture & API design  
-- ETL and multi-stage data pipelines  
-- Automation frameworks and workflow orchestration  
-- Data normalization and structured exports  
-- Containerized environments and Linux systems  
-- Performance optimization for automation workloads  
-- Predictable system design with maintainability in mind  
+---
+
+##  What I Focus On
+
+• Efficient, predictable, maintainable systems  
+• Clean architecture over “fast hacks”  
+• Real-world constraints: rate limits, performance, UX, stability  
+• Transparent logic and strong documentation  
+• Projects that provide **value**, not complexity for the sake of complexity  
 
 ---
 
-## 🎯 Professional Principles
-
-- Build systems that are stable, not fragile  
-- Maintain clean, readable, extensible codebases  
-- Prefer logic-driven architecture over ad-hoc complexity  
-- Optimize for maintainability and future expansion  
-- Deliver solutions that work under real-world constraints (time, resources, load)  
-
----
+##  Contact
+Happy to discuss architecture, data extraction, backend flows, or automation approaches.
 
