@@ -1,87 +1,80 @@
-# Hi, I’m Andrei Sorin Ștefan (PhoenixZuko)
+# Andrei Sorin Stefan — Backend, Automation & Data Engineering
 
-I design and build reliable backend systems, automation tools and data-processing pipelines.  
-My focus is on Python development, ETL workflows, Linux systems, browser automation, and web integration.
-
-I enjoy projects where stability, correctness and clean system logic matter more than “quick hacks”.
-
----
-
-## 🔧 Core Competencies
-
-### **Backend & Automation**
-- Python (automation, data extraction, backend APIs)
-- ETL flows: data collection → transformation → structured export (JSON, SQL, CSV)
-- Complex browser automation (Selenium + undetected-chromedriver)
-- High-stability scraping systems with resume logic & error recovery
-- API integration (REST, JWT auth, JSON/YAML pipelines)
-
-### **System Engineering**
-- Strong experience working in Linux environments (Ubuntu, Debian)
-- Shell scripting & CLI tooling (process control, automation, monitoring)
-- Server-side deployment, service configuration, SSH, environment hardening
-- Performance tuning for automation workloads
-
-### **Web & Application Development**
-- Django & Django REST Framework (authentication, API design, admin tools)
-- Vue.js & React (dashboards, modern UI, integrations)
-- Node.js utilities and API consumers
-- SQL databases: PostgreSQL, MySQL, SQLite
-
-### **Data, AI & Media Processing**
-- Structured data parsing, validation and normalization
-- JSON/YAML configuration systems
-- ONNX Runtime for fast inference workloads
-- FFmpeg + OpenCV for automated video/image processing
+I specialize in backend systems, automation workflows, and data processing pipelines.  
+My work focuses on reliability, clarity, and well-structured architecture rather than shortcuts or unstable solutions.  
+I prefer clean, predictable systems that scale and can be extended without redesign.
 
 ---
 
-## 🔍 Areas of Interest
-- ETL pipelines and automated data extraction  
-- Reliable backend systems with clean architecture  
-- Automation frameworks for web interaction and data flows  
-- Linux-based deployments and scripting  
-- AI-aware media processing (watermark detection, transformation)  
+## ⚙️ Technical Focus Areas
+
+### 🔹 Backend Engineering
+- Python (FastAPI, Flask, Django REST Framework)  
+- REST API design, request validation, JWT authentication  
+- Modular service architecture and clean data models  
+- Secure session handling and business-logic oriented backend design  
 
 ---
 
-## 🚀 Representative Work
-- **ParkingList Data Extractor (Selenium Pipeline)**  
-  Multi-stage ETL system: browser automation → HTML capture → text parsing → JSON structuring  
-  Includes checkpointing, resume logic, and fault tolerance.
-
-- **Django + Vue Authentication System**  
-  Full user system with JWT, registration, login, protected routes and admin tools.
-
-- **Video Watermark Detection Engine**  
-  ONNX + OpenCV + FFmpeg pipeline for automated batch processing.
-
-- **Automation Utilities**  
-  Multiple Python scripts for monitoring, scraping, reporting and data cleanup.
-
-(Additional projects are being cleaned, refactored and documented before publication.)
+### 🔹 Data Engineering & ETL Pipelines
+- Large-scale data extraction (Selenium, undetected-chromedriver, requests)  
+- Full ETL flows: collect → clean → transform → normalize → export (JSON/SQL/CSV)  
+- Checkpointing, resumable executions, and fault-tolerant processing  
+- HTML parsing, classification, and structured data output  
+- PostgreSQL, SQLite, and JSON-based data pipelines  
 
 ---
 
-## 🎯 Current Focus
-- Building robust ETL/data extraction pipelines  
-- Integrating automation tools into full web platforms  
-- Improving backend infrastructure and system stability  
-- Contributing to open-source where automation or Linux expertise is valuable  
+### 🔹 Automation Engineering
+- Browser automation with Selenium + stealth techniques  
+- Proxy rotation, cookie/session isolation, multi-session orchestration  
+- Human-like interaction modeling, timing control, form automation  
+- Anti-bot evasion strategies and stability optimization  
 
 ---
 
-## 🤝 Collaboration
-I’m open to collaborating on:
-- backend engineering  
-- automation frameworks  
-- ETL systems  
-- data processing pipelines  
-- Linux/server-side tooling  
+### 🔹 Systems Engineering & DevOps
+- Linux environments (Ubuntu, Debian) — deployment, administration, CLI workflows  
+- Docker & Docker Compose — multi-service orchestration  
+- Traefik — reverse proxy, routing, SSL, rate limits  
+- Logging, monitoring, and scheduled automation (cron, systemd)  
 
 ---
 
-## 📺 YouTube
-Technical demos and automation walkthroughs:  
-**https:[//www.youtube.com/@PhoenixZuko](https://www.youtube.com/@andreisorinstefan)**
+### 🔹 Frontend Integration
+- Vue 3 + TypeScript  
+- Next.js (React)  
+- SPA workflows connected to backend APIs  
+- Functional, data-driven interfaces for automation and backend systems  
+
+---
+
+### 🔹 AI & Media Processing
+- ONNX Runtime for model inference  
+- OpenCV for video/image processing  
+- FFmpeg for encoding, transformation, and batch automation  
+
+---
+
+## 🧠 Core Expertise
+
+- Backend architecture & API design  
+- ETL and multi-stage data pipelines  
+- Automation frameworks and workflow orchestration  
+- Data normalization and structured exports  
+- Containerized environments and Linux systems  
+- Performance optimization for automation workloads  
+- Predictable system design with maintainability in mind  
+
+---
+
+## 🎯 Professional Principles
+
+- Build systems that are stable, not fragile  
+- Maintain clean, readable, extensible codebases  
+- Prefer logic-driven architecture over ad-hoc complexity  
+- Optimize for maintainability and future expansion  
+- Deliver solutions that work under real-world constraints (time, resources, load)  
+
+---
 
