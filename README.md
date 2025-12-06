@@ -80,8 +80,6 @@ A full local ecosystem consisting of:
 • PID-controlled Start/Stop mechanisms  
 • Direct linking to original listings  
 
-Full explanation in the attached documentation :contentReference[oaicite:1]{index=1}  
-(Not published publicly out of respect for the client's contract.)
 
 ---
 
