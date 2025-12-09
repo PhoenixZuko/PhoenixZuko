@@ -1,120 +1,110 @@
-# Andrei Sorin Stefan  Backend, Automation & Data Engineering
-I'm a Full-Stack & Automation Engineer with a strong focus on backend systems, data extraction (ETL), 
-and browser automation. I build practical, reliable tools designed to solve real-world problems —
-from complex scrapers to full web platforms with authentication, dashboards, and API backends.
+# Andrei Sorin Stefan — Backend, Automation & Data Engineering
 
-My work combines:
-• Backend engineering (Python, Django, FastAPI, Node.js, Spring Boot)
-• Frontend development (Vue 3, React, Next.js)
-• Web automation & anti-bot systems (Selenium, undetected-chromedriver)
-• ETL pipelines, data modeling, data cleaning, scoring, and analysis
-• Linux, servers, deployment, monitoring, and system design
-
-I enjoy building systems that are:
-• maintainable
-• resilient under real traffic
-• configuration-driven
-• production-ready even when running locally
-• transparent and easy to extend
+Senior Backend & Automation Engineer experienced in designing scalable systems, data extraction pipelines (ETL), and advanced browser automation. I build reliable, production-oriented solutions designed for real-world constraints such as rate limits, dynamic UIs, anti-bot systems, and multi-step workflows.
+My work spans backend architecture, distributed automation, and full-stack development, always prioritizing maintainability, clarity, and long-term stability.
 
 ---
 
-##  Technical Skills
+## Core Strengths
 
-### **Backend**
-• Python (Selenium, asyncio, ETL pipelines, parsing engines)
-• Django REST Framework
-• FastAPI
-• Node.js
-• Kotlin + Spring Boot (configuration-driven backend architecture)
-• SQL (PostgreSQL, MySQL, SQLite)
-• Data modeling, normalization, scoring systems
+### Backend Engineering
+- Python (Selenium, asyncio, multiprocessing, ETL workflows)
+- Django REST Framework, FastAPI, Flask
+- Kotlin + Spring Boot (clean, configuration-driven architecture)
+- Node.js (Express, API backends)
+- SQL (PostgreSQL, MySQL, SQLite)
+- Data modeling, scoring engines, normalization, ORMs
+- Production-grade API design and backend architecture
 
-### **Automation & Scraping**
-• Selenium / Undetected-Chromedriver
-• Anti-bot evasion: fingerprinting, cookies, session isolation
-• Multi-session browser automation
-• Dynamic page interactions (forms, JS content, pagination)
-• Human-behavior simulation
-• Robust logging, resume logic, offline caching
-• Large-scale HTML → JSON transformation
+### Automation & Web Scraping
+- Selenium / Undetected-Chromedriver
+- Anti-bot strategies: fingerprinting, cookies, session isolation
+- Human-behavior simulation & realistic automation patterns
+- Dynamic interaction automation (filters, modals, JS content)
+- Multi-session automation with PID & process control
+- Robust extractors with retry queues, caching, resume logic
+- Full ETL processing: HTML → text → structured JSON → database
 
-### **Frontend**
-• Vue 3 (SPA, Composition API)
-• React / Next.js
-• TailwindCSS
-• Interactive dashboards (Tabulator.js) for data analytics
+### Frontend Engineering
+- Vue 3 (SPA, Composition API)
+- React / Next.js
+- TailwindCSS
+- High-performance dashboards using Tabulator.js
 
-### **DevOps & Systems**
-• Linux (Ubuntu, Debian) – daily driver  
-• Shell scripting, process management, PID handling  
-• API integrations (JSON / REST)  
-• CI-ready architecture  
-• Local production-like environments  
-
----
-
-##  Representative Work
-
-### **1. ParkingList.de – Small but Complex ETL Scraper**
-A resilient scraper with 70+ date combinations/airport, resume logic, multi-stage processing, HTML archival, JSON structuring and dynamic browser automation.
-
-Built with:
-• `undetected-chromedriver`
-• Selenium
-• Multi-stage ETL (HTML → TXT → JSON)
-• Anti-bot awareness  
-• Automatic archival & progress tracking  
-• Production-grade logic despite the small scope  
-
-(Project on GitHub)
+### DevOps & Systems
+- Linux (Ubuntu, Debian, Alpine)
+- Shell scripting, CRON automation, process management
+- Dockerized local production-like environments
+- Server deployment, monitoring, debugging
+- API integrations (REST/JSON), authentication flows
+- CI/CD-ready project structure
 
 ---
 
-### **2. Facebook Marketplace & Craigslist Car Scanner + Live Dashboard**
-A full local ecosystem consisting of:
-• Scraper (Selenium + human simulation)  
-• Extractor (data modeling, cleaning, scoring)  
-• Dashboard (Flask API + Tabulator.js)  
-• YAML configuration system  
-• PID-controlled Start/Stop mechanisms  
-• Direct linking to original listings  
+## Representative Projects
 
+### 1. ParkingList.de – Multi-Stage ETL Platform
+A robust ETL pipeline scraping 70+ date combinations per airport.  
+Key capabilities:
+- undetected-chromedriver automation
+- multi-stage transformation pipeline
+- HTML archival, JSON structuring, normalization
+- anti-bot adaptation
+- checkpoint-based resume logic
 
----
-
-### **3. EnergieJungle Lead Routing Demo (Kotlin + Vue 3)**
-End-to-end prototype demonstrating:
-• dynamic questionnaire generation  
-• scoring engine  
-• partner eligibility  
-• routing logic  
-• clean REST architecture  
-Frontend in Vue 3, backend in Kotlin + Spring Boot.
+**Stack:** Python, Selenium (undetected), ETL pipeline, JSON modeling.
 
 ---
 
-### **4. VorteLab Platform**
-A real production ecosystem:
-• Django REST API backend  
-• Vue 3 login system  
-• JWT authentication  
-• Internal chat system  
-• Next.js presentation website  
-All deployed and live.
+### 2. AutoMarketFlow – Facebook Marketplace & Craigslist Scanner + Live Dashboard
+A complete local ecosystem running entirely on the client’s machine:
+- controlled browser automation (human-like behaviour)
+- extractor + classifier + scoring engine
+- Flask dashboard with real-time filtering
+- YAML configuration system
+- multi-process PID supervision
+- persistent Chrome profile
+- safe execution environment with zero cloud dependencies
+
+**Stack:** Python, Selenium, Flask, Tabulator.js, YAML automation.
 
 ---
 
-##  What I Focus On
+### 3. EnergieJungle – Lead Routing Prototype (Kotlin + Vue 3)
+End-to-end prototype implementing:
+- dynamic questionnaire generation (JSON-driven)
+- scoring engine
+- partner eligibility logic
+- clean REST interface
+- Kotlin Spring Boot backend + Vue 3 frontend
 
-• Efficient, predictable, maintainable systems  
-• Clean architecture over “fast hacks”  
-• Real-world constraints: rate limits, performance, UX, stability  
-• Transparent logic and strong documentation  
-• Projects that provide **value**, not complexity for the sake of complexity  
+A scalable foundation designed to evolve into the platform’s MVP.
 
 ---
 
-##  Contact
-Happy to discuss architecture, data extraction, backend flows, or automation approaches.
+### 4. VorteLab – Production Platform (Django + Vue 3 + Next.js)
+Delivered a multi-service ecosystem:
+- Django REST backend with JWT authentication
+- Vue 3 login and user system
+- Internal chat system
+- Next.js marketing website
+
+Production deployment included.
+
+---
+
+## Engineering Philosophy
+
+- Clear, explicit architecture  
+- Maintainability over hacks  
+- Predictable behaviour under real-world conditions  
+- Strong documentation and transparency  
+- Practical value, not artificial complexity  
+
+I specialize in projects where backend logic, automation, and data processing converge — delivering stable, maintainable systems.
+
+---
+
+## Contact
+Available to discuss backend architecture, ETL pipelines, automation systems, or technical solution design.
 
