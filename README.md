@@ -100,7 +100,13 @@ Platform capabilities include:
 - workflow-oriented integrations
 - scalable deployment structure
 - Dockerized development environments
-
+- 
+Included:
+- real-time chat support system
+- SQL-backed message persistence
+- operational dashboards
+- workflow-oriented integrations
+- scalable deployment architecture
 Built with focus on maintainability, modular architecture, and production-oriented workflows.
 
 ---
