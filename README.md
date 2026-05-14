@@ -1,65 +1,122 @@
-# Andrei Sorin Stefan — Backend & Automation Engineer
+# Andrei Sorin Stefan  Backend, Automation & Full-Stack Engineer
 
-Backend and automation engineer focused on scalable systems, ETL pipelines, browser automation, and production-oriented infrastructure.
-
-I build reliable systems designed for real-world operational constraints including dynamic websites, anti-bot protections, long-running workflows, rate limits, and distributed automation.
-
-My work combines backend engineering, automation, data processing, and infrastructure with strong focus on maintainability, clarity, and operational stability.
+Backend, automation, and full-stack engineer experienced in designing scalable systems, ETL pipelines, and advanced browser automation workflows.
+I build reliable, production-oriented solutions designed for real-world operational constraints including rate limits, dynamic interfaces, anti-bot protections, multi-step workflows, and long-running automation systems.
+My work spans backend architecture, distributed automation, infrastructure-oriented workflows, and full-stack development, with strong focus on maintainability, clarity, operational stability, and long-term scalability.
 
 ---
 
-## Core Technologies
+## Core Strengths
 
-### Backend
+### Backend Engineering
 - Python (asyncio, multiprocessing, ETL workflows)
-- FastAPI, Flask, Django REST Framework
+- Django REST Framework, FastAPI, Flask
 - Kotlin + Spring Boot
 - Node.js / Express
 - PostgreSQL, MySQL, SQLite
+- API architecture and backend systems
+- Data modeling, normalization, scoring systems, ORMs
 
 ### Automation & Data Extraction
-- Selenium / Playwright / Undetected-Chromedriver
-- Dynamic website automation
-- Anti-bot adaptation
-- Retry systems and resume logic
-- Multi-session browser orchestration
-- ETL pipelines and structured data processing
+- Selenium / Undetected-Chromedriver / Playwright
+- Browser automation for dynamic websites
+- Session isolation and multi-profile orchestration
+- Anti-bot adaptation strategies
+- Human-like interaction workflows
+- Retry systems, queue processing, resume logic
+- Full ETL pipelines: HTML → structured JSON → database
 
-### Frontend & Infrastructure
+### Frontend Engineering
 - Vue 3
 - React / Next.js
 - TailwindCSS
+- Operational dashboards and admin systems
+- Tabulator.js data interfaces
+
+### Infrastructure & Systems
+- Linux (Ubuntu, Debian, Alpine)
 - Dockerized environments
-- Linux servers and process management
-- Deployment, monitoring, debugging
+- CRON automation and process management
+- Deployment, monitoring, and debugging
+- REST integrations and authentication workflows
+- CI/CD-ready project structures
 
 ---
 
-## Selected Projects
+## Representative Projects
 
-### ParkingList.de — ETL Automation Platform
-Large-scale airport parking aggregation system with anti-bot adaptation, checkpoint resume logic, and multi-stage ETL processing.
+### ParkingList.de — Multi-Stage ETL Platform
+Designed and implemented a robust ETL system processing large-scale airport parking aggregation workflows across multiple dynamic data sources.
 
-### AutoMarketFlow — Marketplace Monitoring System
-Local-first automation platform combining browser automation, scoring systems, Flask dashboards, and workflow orchestration.
+Key capabilities:
+- undetected browser automation
+- anti-bot adaptation
+- multi-stage transformation pipelines
+- structured normalization workflows
+- checkpoint-based resume systems
+- HTML archival and JSON processing
+
+**Stack:** Python, Selenium, ETL pipelines, JSON modeling
+
+---
+
+### AutoMarketFlow — Marketplace Monitoring Platform
+Built a local-first automation ecosystem operating entirely on the client infrastructure.
+
+Features included:
+- controlled browser automation
+- extraction and classification systems
+- scoring engine logic
+- Flask-based dashboards
+- YAML-driven configuration
+- process supervision and persistent browser environments
+
+**Stack:** Python, Selenium, Flask, Tabulator.js
+
+---
 
 ### EnergieJungle — Lead Routing Prototype
-Kotlin + Vue 3 prototype implementing scoring systems, dynamic questionnaires, and partner eligibility routing.
+Developed a scalable Kotlin + Vue 3 prototype implementing:
+- dynamic questionnaire generation
+- scoring systems
+- partner eligibility routing
+- REST APIs
+- configuration-driven business logic
+
+Designed as a scalable foundation for future MVP expansion.
+
+---
 
 ### Vorte Platform — Automation & Service Infrastructure
-Multi-service platform focused on automation workflows, operational tooling, scalable infrastructure, and multilingual web systems.
+
+Designed and developed a multi-service platform focused on automation workflows, operational tooling, client-facing services, and scalable infrastructure.
+
+Platform capabilities include:
+- Next.js frontend architecture
+- API-driven backend services
+- authentication and user management
+- operational dashboards
+- multilingual website infrastructure
+- workflow-oriented integrations
+- scalable deployment structure
+- Dockerized development environments
+
+Built with focus on maintainability, modular architecture, and production-oriented workflows.
 
 ---
 
 ## Engineering Principles
 
-- Maintainable systems over quick hacks
-- Clear architecture and predictable behaviour
-- Practical automation with measurable value
-- Stable production-oriented workflows
+- Maintainable systems over short-term hacks
+- Clear and explicit architecture
+- Predictable behaviour under real-world conditions
+- Practical automation with measurable operational value
+- Long-term reliability and transparency
+
+I specialize in projects where backend engineering, automation, and data systems converge into stable, maintainable production workflows.
 
 ---
 
 ## Contact
 
-Available for backend engineering, ETL systems, workflow automation, and technical solution design.
+Available for backend engineering, ETL systems, workflow automation, infrastructure-oriented development, and technical solution design.
